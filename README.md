@@ -1,6 +1,6 @@
 # Curso de Programación Orientada a Objetos
 
-![Bannner Principal](images/banner.jpg)
+![Bannner Principal](images/banner.png)
 
 ¡Bienvenido al curso de Programación Orientada a Objetos! En este repositorio encontrarás todas las actividades y recursos necesarios para aprender los conceptos fundamentales de la programación orientada a objetos (POO).
 
